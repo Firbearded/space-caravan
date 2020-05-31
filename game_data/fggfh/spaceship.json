@@ -1,0 +1,15 @@
+{
+  "enemies": [],
+  "game_objects": [
+    {
+      "angle": 0,
+      "classname": "SpaceMapTerminal",
+      "pos": {
+        "x": 1000.0,
+        "y": 1075
+      },
+      "spacemap_created": true
+    }
+  ],
+  "interface_objects": []
+}

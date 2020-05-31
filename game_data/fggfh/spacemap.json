@@ -1,0 +1,324 @@
+{
+  "interface_objects": [
+    {
+      "angle": 1.0942420293680395,
+      "biom": 0,
+      "classname": "Planet",
+      "data_filename": "planet0",
+      "estimated_pos": {
+        "x": 117.90475465784367,
+        "y": 413.703055122326
+      },
+      "level_created": false,
+      "name": "Test",
+      "pos": {
+        "x": 226.37712894305983,
+        "y": 604.5974648430565
+      }
+    },
+    {
+      "angle": 3.299969027328204,
+      "biom": 3,
+      "classname": "Planet",
+      "data_filename": "planet1",
+      "estimated_pos": {
+        "x": 634.9995389602957,
+        "y": 340.9572657233053
+      },
+      "level_created": false,
+      "name": "Test",
+      "pos": {
+        "x": 1219.1991148037678,
+        "y": 498.2846897642019
+      }
+    },
+    {
+      "angle": 4.5413407039769345,
+      "biom": 1,
+      "classname": "Planet",
+      "data_filename": "planet2",
+      "estimated_pos": {
+        "x": 398.1344411246619,
+        "y": 510.3425622780844
+      },
+      "level_created": false,
+      "name": "Test",
+      "pos": {
+        "x": 764.4181269593508,
+        "y": 745.8292017292576
+      }
+    },
+    {
+      "angle": 0.8682957000887795,
+      "biom": 2,
+      "classname": "Planet",
+      "data_filename": "planet3",
+      "estimated_pos": {
+        "x": 671.5491533869401,
+        "y": 506.24484052127684
+      },
+      "level_created": false,
+      "name": "Test",
+      "pos": {
+        "x": 1289.374374502925,
+        "y": 739.8406740760946
+      }
+    },
+    {
+      "angle": 2.843836344048147,
+      "biom": 0,
+      "classname": "Planet",
+      "data_filename": "planet4",
+      "estimated_pos": {
+        "x": 124.93692637197731,
+        "y": 84.80378012488
+      },
+      "level_created": false,
+      "name": "Test",
+      "pos": {
+        "x": 239.87889863419642,
+        "y": 123.93466723964607
+      }
+    },
+    {
+      "angle": 0.5744281442940535,
+      "biom": 3,
+      "classname": "Planet",
+      "data_filename": "planet5",
+      "estimated_pos": {
+        "x": 552.0086860590525,
+        "y": 609.780416246071
+      },
+      "level_created": false,
+      "name": "Test",
+      "pos": {
+        "x": 1059.8566772333807,
+        "y": 891.1505225996152
+      }
+    },
+    {
+      "angle": 3.301253732656471,
+      "biom": 1,
+      "classname": "Planet",
+      "data_filename": "planet6",
+      "estimated_pos": {
+        "x": 115.1712416266586,
+        "y": 584.0833099780588
+      },
+      "level_created": false,
+      "name": "Test",
+      "pos": {
+        "x": 221.1287839231845,
+        "y": 853.596037296506
+      }
+    },
+    {
+      "angle": 2.4748693866598,
+      "biom": 3,
+      "classname": "Planet",
+      "data_filename": "planet7",
+      "estimated_pos": {
+        "x": 839.6722309194862,
+        "y": 604.7307070489097
+      },
+      "level_created": false,
+      "name": "Test",
+      "pos": {
+        "x": 1612.1706833654134,
+        "y": 883.7707333014781
+      }
+    },
+    {
+      "angle": 0.08594166053284195,
+      "biom": 1,
+      "classname": "Planet",
+      "data_filename": "planet8",
+      "estimated_pos": {
+        "x": 373.8509967896598,
+        "y": 352.3742446886131
+      },
+      "level_created": false,
+      "name": "Test",
+      "pos": {
+        "x": 717.7939138361468,
+        "y": 514.9697890235018
+      }
+    },
+    {
+      "angle": 2.1223908912400007,
+      "biom": 4,
+      "classname": "Planet",
+      "data_filename": "planet9",
+      "estimated_pos": {
+        "x": 910.202681076661,
+        "y": 227.5816933879942
+      },
+      "level_created": true,
+      "name": "Test",
+      "pos": {
+        "x": 1747.5891476671889,
+        "y": 332.5943890513115
+      }
+    },
+    {
+      "angle": 5.875192517698988,
+      "biom": 3,
+      "classname": "Planet",
+      "data_filename": "planet10",
+      "estimated_pos": {
+        "x": 742.9633483849437,
+        "y": 232.5943024704302
+      },
+      "level_created": false,
+      "name": "Test",
+      "pos": {
+        "x": 1426.489628899092,
+        "y": 339.9199591817859
+      }
+    },
+    {
+      "angle": 3.2707088793445718,
+      "biom": 2,
+      "classname": "Planet",
+      "data_filename": "planet11",
+      "estimated_pos": {
+        "x": 452.0593327557283,
+        "y": 160.4321597932026
+      },
+      "level_created": true,
+      "name": "Test",
+      "pos": {
+        "x": 867.9539188909982,
+        "y": 234.4601420977804
+      }
+    },
+    {
+      "angle": 4.885228113889941,
+      "biom": 4,
+      "classname": "Planet",
+      "data_filename": "planet12",
+      "estimated_pos": {
+        "x": 880.9880630420871,
+        "y": 435.1994649421234
+      },
+      "level_created": false,
+      "name": "Test",
+      "pos": {
+        "x": 1691.4970810408072,
+        "y": 636.0129323368461
+      }
+    },
+    {
+      "angle": 5.716921221276978,
+      "biom": 1,
+      "classname": "Planet",
+      "data_filename": "planet13",
+      "estimated_pos": {
+        "x": 254.97140409036842,
+        "y": 257.1060729875689
+      },
+      "level_created": false,
+      "name": "Test",
+      "pos": {
+        "x": 489.54509585350735,
+        "y": 375.74216095183283
+      }
+    },
+    {
+      "angle": 1.8741124967071023,
+      "biom": 3,
+      "classname": "Planet",
+      "data_filename": "planet14",
+      "estimated_pos": {
+        "x": 774.2861538544742,
+        "y": 81.50912315387038
+      },
+      "level_created": false,
+      "name": "Test",
+      "pos": {
+        "x": 1486.6294154005902,
+        "y": 119.11976140915628
+      }
+    },
+    {
+      "angle": 2.7946804440478443,
+      "biom": 1,
+      "classname": "Planet",
+      "data_filename": "planet15",
+      "estimated_pos": {
+        "x": 87.47741909990293,
+        "y": 235.37998158501236
+      },
+      "level_created": false,
+      "name": "Test",
+      "pos": {
+        "x": 167.95664467181362,
+        "y": 343.99103023066806
+      }
+    },
+    {
+      "angle": 5.614170573613299,
+      "biom": 1,
+      "classname": "Planet",
+      "data_filename": "planet16",
+      "estimated_pos": {
+        "x": 291.3591863965633,
+        "y": 614.3300025148947
+      },
+      "level_created": false,
+      "name": "Test",
+      "pos": {
+        "x": 559.4096378814015,
+        "y": 897.7994179610532
+      }
+    },
+    {
+      "angle": 2.1071908923228535,
+      "biom": 2,
+      "classname": "Planet",
+      "data_filename": "planet17",
+      "estimated_pos": {
+        "x": 499.51011612558165,
+        "y": 350.51619746817795
+      },
+      "level_created": false,
+      "name": "Test",
+      "pos": {
+        "x": 959.0594229611168,
+        "y": 512.2543857284944
+      }
+    },
+    {
+      "angle": 3.198891882797502,
+      "biom": 2,
+      "classname": "Planet",
+      "data_filename": "planet18",
+      "estimated_pos": {
+        "x": 584.5468876024846,
+        "y": 95.0653583402863
+      },
+      "level_created": false,
+      "name": "Test",
+      "pos": {
+        "x": 1122.3300241967704,
+        "y": 138.93123083158983
+      }
+    },
+    {
+      "angle": 5.58163902321138,
+      "biom": 1,
+      "classname": "Planet",
+      "data_filename": "planet19",
+      "estimated_pos": {
+        "x": 312.49390711066974,
+        "y": 84.56448764778388
+      },
+      "level_created": false,
+      "name": "Test",
+      "pos": {
+        "x": 599.9883016524859,
+        "y": 123.58495837668987
+      }
+    }
+  ]
+}

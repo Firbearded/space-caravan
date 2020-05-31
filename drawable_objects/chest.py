@@ -19,3 +19,4 @@ class Chest(UsableObject):
 
     def activate(self):
         self.image_name ='level_objects.boxes.box_open'
+        self.popping_e.destroy()
